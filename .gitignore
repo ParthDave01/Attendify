@@ -1,0 +1,15 @@
+"node_modules/" 
+".env" 
+".env.local" 
+".env*.local" 
+"desktop.ini" 
+"*.log" 
+"dist/" 
+"build/" 
+".DS_Store" 
+".vscode/" 
+"__pycache__/"   # For Python backend
+"*.pyc"          # For Python backend
+"venv/"          # Python virtual environment
+".env.backend"   # Backend environment
+".env.frontend"  # Frontend environment
